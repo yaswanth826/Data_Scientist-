@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Approval - Decision Tree</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>🏦 Loan Approval Predictor</h1>
+
+    <form method="POST">
+        <label>Income (₹):</label>
+        <input type="number" name="income" required>
+
+        <label>Credit Score:</label>
+        <input type="number" name="credit_score" required>
+
+        <label>Has Job:</label>
+        <select name="has_job">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if result %}
+        <div class="result">{{ result }}</div>
+    {% endif %}
+</div>
+
+</body>
+</html>
