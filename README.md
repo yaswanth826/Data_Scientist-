@@ -1,202 +1,210 @@
-📊 Data Science & Machine Learning Portfolio
+# 📊 Data Science & Machine Learning Portfolio
 
 A structured collection of Machine Learning, Data Science, and ML Engineering projects built using real-world datasets and production-ready pipelines.
 
-⸻
+---
 
-📚 Repository Structure
+## 📚 Repository Structure
 
 This portfolio is organized into:
-	•	🧠 Core ML Concepts
-	•	🤖 Supervised Learning
-	•	📊 Unsupervised Learning
-	•	🚀 Deployment Projects
 
-⸻
+- 🧠 Core ML Concepts  
+- 🤖 Supervised Learning  
+- 📊 Unsupervised Learning  
+- 🚀 Deployment Projects  
 
-🧠 Core Machine Learning Concepts
-	•	Supervised vs Unsupervised Learning
-	•	Overfitting vs Underfitting
-	•	Bias–Variance Tradeoff
-	•	Model Evaluation Metrics
-	•	Cross Validation (K-Fold)
-	•	Hyperparameter Tuning
-	•	Feature Engineering & Selection
+---
 
-⸻
+# 🧠 Core Machine Learning Concepts
 
-🤖 Supervised Learning
+- Supervised vs Unsupervised Learning  
+- Overfitting vs Underfitting  
+- Bias–Variance Tradeoff  
+- Model Evaluation Metrics  
+- Cross Validation (K-Fold)  
+- Hyperparameter Tuning  
+- Feature Engineering & Selection  
 
-⸻
+---
 
-📈 Regression Projects
+# 🤖 Supervised Learning
 
-🔹 Linear Regression
-	•	Theory + Implementation
-	•	R², MAE, MSE, RMSE
-	•	Streamlit Deployment
+---
 
-🔗 Project:
-Coffee Sales Prediction￼
+## 📈 Regression Projects
 
-⸻
+### 🔹 Linear Regression
+- Theory + Implementation  
+- R², MAE, MSE, RMSE  
+- Streamlit Deployment  
 
-🔹 Random Forest Regression
-	•	Ensemble Learning
-	•	Feature Importance
-	•	Model Optimization
+🔗 Project:  
+[Coffee Sales Prediction](https://github.com/yaswanth826/coffee-sales-streamlit)
 
-🔗 Project:
-Random Forest Regression - Home Price￼
+---
 
-⸻
+### 🔹 Random Forest Regression
+- Ensemble Learning  
+- Feature Importance  
+- Model Optimization  
 
-🔹 XGBoost Regression
-	•	Advanced Boosting Algorithm
-	•	Hyperparameter Tuning
-	•	Model Comparison
+🔗 Project:  
+[Random Forest Regression - Home Price](https://github.com/yaswanth826/Randomforest_regression_homeprize)
 
-🔗 Project:
-XGBoost Regressor - House Prediction￼
+---
 
-⸻
+### 🔹 XGBoost Regression
+- Advanced Boosting Algorithm  
+- Hyperparameter Tuning  
+- Model Comparison  
 
-🧾 Classification Projects
+🔗 Project:  
+[XGBoost Regressor - House Prediction](https://github.com/yaswanth826/Xgboosting_regressor_house_prediction)
 
-⸻
+---
 
-🔹 Logistic Regression
-	•	Binary Classification
-	•	Confusion Matrix
-	•	Precision, Recall, F1 Score
+## 🧾 Classification Projects
 
-🔗 Project:
-Heart Disease Prediction App￼
+---
 
-⸻
+### 🔹 Logistic Regression
+- Binary Classification  
+- Confusion Matrix  
+- Precision, Recall, F1 Score  
 
-🔹 Random Forest Classification
-	•	Tree-Based Ensemble
-	•	Feature Importance
-	•	Model Evaluation
+🔗 Project:  
+[Heart Disease Prediction App](https://github.com/yaswanth826/Heart-Disease-Prediction-App)
 
-🔗 Project:
-Random Forest - Cancer Classification￼
+---
 
-⸻
+### 🔹 Random Forest Classification
+- Tree-Based Ensemble  
+- Feature Importance  
+- Model Evaluation  
 
-🔹 Naive Bayes
-	•	Probabilistic Classification
-	•	Text & Categorical Prediction
+🔗 Project:  
+[Random Forest - Cancer Classification](https://github.com/yaswanth826/Randomforest_Classification_cancer)
 
-🔗 Projects:
-Naive Bayes Project￼
-Spam Detection - Naive Bayes￼
+---
 
-⸻
+### 🔹 Naive Bayes
+- Probabilistic Classification  
+- Text & Categorical Prediction  
 
-🔹 Support Vector Machine (SVM)
-	•	Hyperplane & Margin
-	•	Kernel Trick
-	•	Digit Classification
+🔗 Projects:  
+[Naive Bayes Implementation](https://github.com/yaswanth826/navie_bayes)  
+[Spam Detection - Naive Bayes](https://github.com/yaswanth826/spam_project_navie_bayes)
 
-🔗 Project:
-SVM Number Prediction￼
+---
 
-⸻
+### 🔹 Support Vector Machine (SVM)
+- Hyperplane & Margin  
+- Kernel Trick  
+- Digit Classification  
 
-🔹 Decision Tree
-	•	Entropy & Gini Index
-	•	Tree Visualization
+🔗 Project:  
+[SVM Number Prediction](https://github.com/yaswanth826/SVM_number_pridiction)
 
-🔗 Project:
-Loan Approval Prediction￼
+---
 
-⸻
+### 🔹 Decision Tree
+- Entropy & Gini Index  
+- Tree Visualization  
 
-🔹 Gradient Boosting
-	•	Boosting Concept
-	•	Feature Importance
-	•	Model Evaluation
+🔗 Project:  
+[Loan Approval Prediction](https://github.com/yaswanth826/Decision_tree_loanapproval)
 
-🔗 Projects:
-Gradient Boosting - Diabetes￼
-Gradient Boosting - Mushroom Classification￼
+---
 
-⸻
+### 🔹 Gradient Boosting
+- Boosting Concept  
+- Feature Importance  
+- Model Evaluation  
 
-🔹 K-Nearest Neighbors (KNN)
+🔗 Projects:  
+[Gradient Boosting - Diabetes](https://github.com/yaswanth826/GradientBoostingregression_diabetes)  
+[Gradient Boosting - Mushroom Classification](https://github.com/yaswanth826/GradientBoostingclassification-mushroom)
 
-🔗 Project:
-KNN Cancer Prediction￼
+---
 
-⸻
+### 🔹 K-Nearest Neighbors (KNN)
 
-🔹 Support Vector Classifier (SVC)
+🔗 Project:  
+[KNN Cancer Prediction](https://github.com/yaswanth826/knn_cancer)
 
-🔗 Project:
-SVC Implementation￼
+---
 
-⸻
+### 🔹 Support Vector Classifier (SVC)
 
-🔹 Cross Validation Project
-	•	K-Fold Implementation
-	•	Model Comparison
+🔗 Project:  
+[SVC Implementation](https://github.com/yaswanth826/SVC)
 
-🔗 Project:
-Cross Validation - Wine Prediction￼
+---
 
-⸻
+### 🔹 Cross Validation Project
+- K-Fold Implementation  
+- Model Comparison  
 
-📊 Unsupervised Learning
+🔗 Project:  
+[Cross Validation - Wine Prediction](https://github.com/yaswanth826/Cross_validation_wineprediction)
 
-⸻
+---
 
-🔹 K-Means Clustering
-	•	Cluster Visualization
-	•	Elbow Method
+# 📊 Unsupervised Learning
 
-🔗 Project:
-KMeans Clustering￼
+---
 
-⸻
+### 🔹 K-Means Clustering
+- Cluster Visualization  
+- Elbow Method  
 
-🔹 DBSCAN Clustering
+🔗 Project:  
+[KMeans Clustering](https://github.com/yaswanth826/kmean)
 
-🔗 Project:
-DBSCAN - Wine Dataset￼
+---
 
-⸻
+### 🔹 DBSCAN Clustering
 
-🔹 Hierarchical Clustering
+🔗 Project:  
+[DBSCAN - Wine Dataset](https://github.com/yaswanth826/Dbscan_wine_cluster)
 
-🔗 Project:
-Hierarchical Clustering￼
+---
 
-⸻
+### 🔹 Hierarchical Clustering
 
-📂 Additional Projects
+🔗 Project:  
+[Hierarchical Clustering](https://github.com/yaswanth826/Hierarchical-Clustering-)
 
-🔗 Grocery App
-https://github.com/yaswanth826/Grocery
+---
 
-🔗 Data Scientist Practice Repository
+# 📂 Additional Projects
+
+🔗 Grocery App  
+https://github.com/yaswanth826/Grocery  
+
+🔗 Data Scientist Practice Repository  
 https://github.com/yaswanth826/Data_Scientist-
 
-⸻
+---
 
-🛠 Tech Stack
-	•	Python
-	•	Scikit-Learn
-	•	Pandas
-	•	NumPy
-	•	Matplotlib / Seaborn
-	•	Streamlit
-	•	XGBoost
-	•	Git & GitHub
+# 🛠 Tech Stack
 
-⸻
+- Python  
+- Scikit-Learn  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Streamlit  
+- XGBoost  
+- Git & GitHub  
 
-📬 Connect With Me
+---
 
-GitHub: https://github.com/yaswanth826
+# 📬 Connect With Me
+
+GitHub: https://github.com/yaswanth826  
+
+---
+
+⭐ If you found this portfolio helpful, feel free to explore and connect!
