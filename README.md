@@ -49,7 +49,7 @@ This portfolio is organized into:
 - Model Optimization  
 
 🔗 Project:  
-[Random Forest Regression - Home Price](https://github.com/yaswanth826/Randomforest_regression_homeprize)
+[Random Forest Regression - Home Price](https://github.com/yaswanth826/Randomforest_reggression_homeprize)
 
 ---
 
@@ -132,12 +132,6 @@ This portfolio is organized into:
 🔗 Project:  
 [KNN Cancer Prediction](https://github.com/yaswanth826/knn_cancer)
 
----
-
-### 🔹 Support Vector Classifier (SVC)
-
-🔗 Project:  
-[SVC Implementation](https://github.com/yaswanth826/SVC)
 
 ---
 
