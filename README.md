@@ -1,131 +1,202 @@
-# 📊 Data Science & Machine Learning Portfolio
+📊 Data Science & Machine Learning Portfolio
 
 A structured collection of Machine Learning, Data Science, and ML Engineering projects built using real-world datasets and production-ready pipelines.
 
----
+⸻
 
-## 📚 Repository Structure
+📚 Repository Structure
 
 This portfolio is organized into:
+	•	🧠 Core ML Concepts
+	•	🤖 Supervised Learning
+	•	📊 Unsupervised Learning
+	•	🚀 Deployment Projects
 
-- 🧠 Core ML Concepts
-- 🤖 Supervised Learning
-- 📊 Unsupervised Learning
+⸻
 
----
+🧠 Core Machine Learning Concepts
+	•	Supervised vs Unsupervised Learning
+	•	Overfitting vs Underfitting
+	•	Bias–Variance Tradeoff
+	•	Model Evaluation Metrics
+	•	Cross Validation (K-Fold)
+	•	Hyperparameter Tuning
+	•	Feature Engineering & Selection
 
-# 🧠 Core Machine Learning Concepts
+⸻
 
-- Supervised vs Unsupervised Learning  
-- Overfitting vs Underfitting  
-- Bias–Variance Tradeoff  
-- Model Evaluation Metrics  
-- Cross Validation (K-Fold)  
-- Hyperparameter Tuning  
-- Feature Engineering & Selection  
+🤖 Supervised Learning
 
----
+⸻
 
-# 🤖 Supervised Learning
+📈 Regression Projects
 
----
+🔹 Linear Regression
+	•	Theory + Implementation
+	•	R², MAE, MSE, RMSE
+	•	Streamlit Deployment
 
-## 📈 Regression Projects
+🔗 Project:
+Coffee Sales Prediction￼
 
-### 🔹 Linear Regression
-- Theory + Implementation  
-- R², MAE, MSE, RMSE  
-- Deployment Ready  
+⸻
 
-🔗 Project:  
-[Coffee Sales Prediction](./Supervised_Learning/Linear_Regression/streamlit_linear)
+🔹 Random Forest Regression
+	•	Ensemble Learning
+	•	Feature Importance
+	•	Model Optimization
 
----
+🔗 Project:
+Random Forest Regression - Home Price￼
 
-### 🔹 House Price Prediction (XGBoost)
-- Data Cleaning  
-- Feature Engineering  
-- Model Comparison  
-- Deployment  
+⸻
 
-🔗 Project:  
-[House Price Predictor](./Supervised_Learning/XGBoost/Xgboosting_regressor)
+🔹 XGBoost Regression
+	•	Advanced Boosting Algorithm
+	•	Hyperparameter Tuning
+	•	Model Comparison
 
----
+🔗 Project:
+XGBoost Regressor - House Prediction￼
 
-## 🧾 Classification Projects
+⸻
 
-### 🔹 Logistic Regression
-- Binary Classification  
-- Confusion Matrix  
-- Precision, Recall, F1 Score  
+🧾 Classification Projects
 
-🔗 Project:  
-[Heart Disease Prediction](./Supervised_Learning/Logistic_Regression/streamlit_logistic)
+⸻
 
----
+🔹 Logistic Regression
+	•	Binary Classification
+	•	Confusion Matrix
+	•	Precision, Recall, F1 Score
 
-### 🔹 Naive Bayes
-- Probabilistic Classification  
-- Text Classification  
+🔗 Project:
+Heart Disease Prediction App￼
 
-🔗 Projects:  
-[Naive Bayes - Tennis Predictor](./Supervised_Learning/Naive_Bayes/navie_bayes)
+⸻
 
----
+🔹 Random Forest Classification
+	•	Tree-Based Ensemble
+	•	Feature Importance
+	•	Model Evaluation
 
-### 🔹 Support Vector Machine (SVM)
-- Hyperplane & Margin Concept  
-- Kernel Trick  
-- Digit Classification  
+🔗 Project:
+Random Forest - Cancer Classification￼
 
-🔗 Project:  
-[SVM Digit Prediction](./Supervised_Learning/SVM/SVM_number_predict)
+⸻
 
----
+🔹 Naive Bayes
+	•	Probabilistic Classification
+	•	Text & Categorical Prediction
 
-### 🔹 Ensemble Learning (Gradient Boosting)
-- Feature Importance  
-- Model Comparison  
-- Advanced Evaluation  
+🔗 Projects:
+Naive Bayes Project￼
+Spam Detection - Naive Bayes￼
 
-🔗 Project:  
-[Mushroom Classification](./Supervised_Learning/Gradient_Boosting/mushroom)
+⸻
 
----
+🔹 Support Vector Machine (SVM)
+	•	Hyperplane & Margin
+	•	Kernel Trick
+	•	Digit Classification
 
-### 🔹 Decision Tree
-- Entropy & Gini Index  
-- Tree Visualization  
+🔗 Project:
+SVM Number Prediction￼
 
-🔗 Project:  
-[Loan Approval Prediction](./Supervised_Learning/Decision_Tree/loan_approval)
+⸻
 
----
+🔹 Decision Tree
+	•	Entropy & Gini Index
+	•	Tree Visualization
 
-# 📊 Unsupervised Learning
+🔗 Project:
+Loan Approval Prediction￼
 
-### 🔹 K-Means Clustering
-- Cluster Analysis  
-- Data Visualization  
+⸻
 
-🔗 Project:  
-[KMeans Clustering](./Unsupervised_Learning/KMeans/kmean)
+🔹 Gradient Boosting
+	•	Boosting Concept
+	•	Feature Importance
+	•	Model Evaluation
 
----
+🔗 Projects:
+Gradient Boosting - Diabetes￼
+Gradient Boosting - Mushroom Classification￼
 
-# 🛠 Tech Stack
+⸻
 
-- Python  
-- Scikit-Learn  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
-- Streamlit  
-- XGBoost  
+🔹 K-Nearest Neighbors (KNN)
 
----
+🔗 Project:
+KNN Cancer Prediction￼
 
-# 📬 Connect With Me
+⸻
+
+🔹 Support Vector Classifier (SVC)
+
+🔗 Project:
+SVC Implementation￼
+
+⸻
+
+🔹 Cross Validation Project
+	•	K-Fold Implementation
+	•	Model Comparison
+
+🔗 Project:
+Cross Validation - Wine Prediction￼
+
+⸻
+
+📊 Unsupervised Learning
+
+⸻
+
+🔹 K-Means Clustering
+	•	Cluster Visualization
+	•	Elbow Method
+
+🔗 Project:
+KMeans Clustering￼
+
+⸻
+
+🔹 DBSCAN Clustering
+
+🔗 Project:
+DBSCAN - Wine Dataset￼
+
+⸻
+
+🔹 Hierarchical Clustering
+
+🔗 Project:
+Hierarchical Clustering￼
+
+⸻
+
+📂 Additional Projects
+
+🔗 Grocery App
+https://github.com/yaswanth826/Grocery
+
+🔗 Data Scientist Practice Repository
+https://github.com/yaswanth826/Data_Scientist-
+
+⸻
+
+🛠 Tech Stack
+	•	Python
+	•	Scikit-Learn
+	•	Pandas
+	•	NumPy
+	•	Matplotlib / Seaborn
+	•	Streamlit
+	•	XGBoost
+	•	Git & GitHub
+
+⸻
+
+📬 Connect With Me
 
 GitHub: https://github.com/yaswanth826
